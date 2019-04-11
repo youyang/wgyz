@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            <string>http://192.168.1.23/pub/914/Takeda_1088.ipa</string>
+        </dict>
+    </array>
+    <key>metadata</key>
+    <dict>
+        <key>application-identifier</key>
+        <string>S9986HN4G7.or.dpstorm.com</string>
+        <key>keychain-access-groups</key>
+        <array>
+            <string>S9986HN4G7.*</string>
+        </array>
+        <key>get-task-allow</key>
+        <true/>
+        <key>com.apple.developer.team-identifier</key>
+        <string>S9986HN4G7</string>
+    </dict>
+</dict>
+</plist>
